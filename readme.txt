@@ -5,3 +5,5 @@ Git tracks changes.
 Creating a new branch is quick.
 Creating a new branch is quick And simple.
 test merge marster.
+Creating a new branch is quick and simple.
+test merge feature1.
